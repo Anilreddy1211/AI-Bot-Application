@@ -12,3 +12,4 @@ Deploy to Vercel and set only:
 - `ai_support` (optional, default: ai_support)
 - `VITE_API_BASE` (frontend → backend URL)
 "# AI-chat-application" 
+"# AI-Bot-Application" 
