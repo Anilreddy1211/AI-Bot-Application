@@ -11,3 +11,4 @@ Deploy to Vercel and set only:
 - `mongodb+srv://atlas_user:Anil_1211@cluster0.fhzodhz.mongodb.net/ai_support?retryWrites=true&w=majority` (from MongoDB Atlas)
 - `ai_support` (optional, default: ai_support)
 - `VITE_API_BASE` (frontend → backend URL)
+"# AI-chat-application" 
